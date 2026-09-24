@@ -1,0 +1,16 @@
+ACOUSTIC GUITAR BY JGK - EASY BUILD
+
+1. Open your Acoustic-Guitar-by-JGK repository on GitHub.
+2. Click "Add file" -> "Upload files".
+3. Drag EVERYTHING INSIDE this Acoustic_Guitar_by_JGK folder onto the upload page.
+   Important: include the .github folder too.
+4. Click "Commit changes".
+5. GitHub will automatically start a Windows build.
+6. Open the repository's Actions tab and open "Build Windows VST3".
+7. When it is green, download the artifact named:
+   Acoustic-Guitar-by-JGK-Windows-VST3
+8. Extract it and copy "Acoustic Guitar by JGK.vst3" to:
+   C:\Program Files\Common Files\VST3\
+9. In FL Studio: Options -> Manage plugins -> Find installed plugins.
+
+That is it. You do not need to install Visual Studio or compile anything yourself.
