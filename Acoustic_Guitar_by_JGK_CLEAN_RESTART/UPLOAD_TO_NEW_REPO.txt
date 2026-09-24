@@ -1,0 +1,18 @@
+CLEAN RESTART - IMPORTANT
+
+Create a BRAND-NEW EMPTY public GitHub repository.
+Do not add a README, .gitignore or licence during repository creation.
+
+Extract this ZIP.
+Open the extracted Acoustic_Guitar_by_JGK_CLEAN_RESTART folder.
+Upload the CONTENTS of that folder to the front page of the new repository.
+
+On the repository front page you should directly see:
+  .github
+  Source
+  CMakeLists.txt
+  README.md
+  THIRD_PARTY_SAMPLES.md
+
+CMakeLists.txt must NOT be inside another Acoustic_Guitar_by_JGK folder.
+After you commit, GitHub Actions will start the Windows build automatically.
